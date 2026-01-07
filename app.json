@@ -3,7 +3,7 @@
   "description": "voice-x, your friendly assistant!",
   "logo": "https://h.uguu.se/GiYWpWoC.jpg",
   "keywords": [],
-  "repository": "https://github.com/Vinpink2/JUNE-X",
+  "repository": "https://github.com/Thevoice12/voice-X",
   "stack": "container",
   "addons": [
     {
